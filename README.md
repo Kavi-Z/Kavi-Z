@@ -2,34 +2,24 @@
 
 ---
 
-I’m a **Computer Engineering Undergraduate** at the University of Ruhuna with a passion for **graphic designing**, **web development**, and **innovative tech solutions**.
-
-> **"Exploring Creativity through Code and Design!"**  
-> **"Building Technology for a Better Tomorrow!"**
-
-I'm constantly exploring new ways to integrate creativity with technology to solve real-world problems.
+I’m a **Computer Engineering Undergraduate** at the University of Ruhuna with a passion for **graphic designing**, **web development**, and **innovative tech solutions**. I'm constantly exploring new ways to integrate creativity with technology to solve real-world problems.
 
 ---
 
 ### 🔧 Skills:
 
-- **Programming Languages:** Python, C#, JavaScript, HTML, CSS
+- **Programming Languages:** C, C++, C#, JavaScript, HTML, CSS
 - **Frameworks & Tools:** React, Node.js, MongoDB, SQLite, Figma, Adobe Suite (Photoshop, Illustrator, Premiere Pro)
-- **Specialties:** UI/UX Design, Video Editing, Graphic Designing, Full-Stack Development
-- **Other Interests:** Blockchain Development, Smart Grid Technology, and IoT Systems
+- **Specialties:** UI/UX Design, Video Editing, Graphic Designing, Front end Development
+- **Other Interests:** Blockchain Development, AI , and IoT Systems
 
 ---
 
 ### 🌐 Projects:
 
-#### 🔧 [Fitness Training App](https://github.com/yourusername/fitness-app)
-A user-friendly app to track daily fitness progress, including calories burned and exercise stats.
-
-#### 🍞 [Food Order Website](https://github.com/yourusername/food-order-website)
+#### 🍞 [Food Order Website](https://github.com/Kavi-Z/GUI)
 An interactive food ordering system with dynamic visuals and overlays.
 
-#### 📖 [Library Management System](https://github.com/yourusername/library-system)
-A desktop application for managing library books and users, featuring custom data structures.
 
 ---
 
@@ -44,11 +34,9 @@ A desktop application for managing library books and users, featuring custom dat
 
 ### 📧 Contact Me:
 
-- **Email:** kavindusanjitha@example.com
-- **LinkedIn:** [linkedin.com/in/kavindusanjitha](https://linkedin.com/in/kavindusanjitha)
-- **GitHub:** [github.com/kavindu-sanjitha](https://github.com/kavindu-sanjitha)
-- **Portfolio:** [www.kavindusanjitha.com](https://www.kavindusanjitha.com)
+- **Email:** kavindusanga1331@gmail.com
+- **LinkedIn:** [linkedin.com/in/kavindusanjitha](https://shorturl.at/5htcS)
+- **GitHub:** [github.com/kavindu-sanjitha](https://github.com/Kavi-Z)
+- **Portfolio:** [www.kavindusanjitha.com](https://kavi-z.github.io/Portfolio/)
 
 ---
-
-Let’s create something amazing together! 🚀
