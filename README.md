@@ -11,14 +11,14 @@ I’m a **Computer Engineering Undergraduate** at the University of Ruhuna with 
 - **Programming Languages:** Python, C#, JavaScript, HTML, CSS
 - **Frameworks & Tools:** React, Node.js, MongoDB, SQLite, Figma, Adobe Suite (Photoshop, Illustrator, Premiere Pro)
 - **Specialties:** UI/UX Design, Video Editing, Graphic Designing, Full-Stack Development
-- **Other Interests:** Blockchain Development, Smart Grid Technology, and IoT Systems
+- **Other Interests:** Blockchain Development, AI , and IoT Systems
 
 ---
 
 ### 🌐 Projects:
 
 #### 🔧 [Fitness Training App](https://github.com/yourusername/fitness-app)
-A user-friendly app to track daily fitness progress, including calories burned and exercise stats.
+A user-friendly app (UI) to track daily fitness progress, including calories burned and exercise stats.
 
 #### 🍞 [Food Order Website](https://github.com/yourusername/food-order-website)
 An interactive food ordering system with dynamic visuals and overlays.
@@ -39,7 +39,7 @@ A desktop application for managing library books and users, featuring custom dat
 
 ### 📧 Contact Me:
 
-- **Email:** kavindusanjitha@example.com
+- **Email:** kavindusanga1331@gmail.com
 - **LinkedIn:** [linkedin.com/in/kavindusanjitha](https://linkedin.com/in/kavindusanjitha)
 - **GitHub:** [github.com/kavindu-sanjitha](https://github.com/kavindu-sanjitha)
 - **Portfolio:** [www.kavindusanjitha.com](https://www.kavindusanjitha.com)
